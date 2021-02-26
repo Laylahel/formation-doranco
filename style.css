@@ -2,7 +2,12 @@ body{
     font-family: ;
 
 }
+a{
+    text-decoration: none;
+}
 p{
     margin: 5px 0;
 }
-a{}
+ul{
+    list-style:none;
+}
